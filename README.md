@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tiagoangelods's Stats](https://github-readme-stats.vercel.app/api?username=tiagoangelods&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
